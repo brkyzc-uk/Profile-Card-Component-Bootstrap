@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [live](https://vercel.com/brkyzc-uk/profile-card-component-bootstrap)
+- Live Site URL: [live](https://profile-card-component-bootstrap-4yn1gs4ku-brkyzc-uk.vercel.app/)
 
 
 ### Built with
